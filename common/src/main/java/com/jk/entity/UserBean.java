@@ -12,4 +12,6 @@ public class UserBean {
        private Integer price;
 
        private String miaoshu;
+
+       private String haha;
 }
